@@ -1,0 +1,19 @@
+{
+    "teachers": [{"teacherID": 2405}],
+    "gradeSheets": [{"studentID": 1234,
+      "ling100": 20,
+      "phys101": 20,
+      "econ101": 100,
+      "econ102": 100,
+      "math101": 100,
+      "math100": 100,
+      "ling101": 100,
+      "cpsc121": 20,
+      "sci113": 32,
+      "cpsc103": 10}],
+    "students": [{
+        "studentID": 1234,
+        "major": "Statistics",
+        "name": "alex"
+    }]
+}
